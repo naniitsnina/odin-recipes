@@ -1,3 +1,5 @@
 # odin-recipes
+<head>
 My first basic recipe Website
-I am demonstrating my skills in basic HTML
+</head>
+<p>I am demonstrating my skills in basic HTML</p>
